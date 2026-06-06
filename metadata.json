@@ -1,0 +1,6 @@
+{
+  "name": "Undead Survival 3D FPS",
+  "description": "A polished, fast-paced classic wave-based Zombie survival 3D First-Person Shooter. Buy weapons, purchase perks, turn on the power, and survive endless waves of the undead.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
